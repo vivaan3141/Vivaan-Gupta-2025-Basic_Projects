@@ -11,10 +11,6 @@ int main() {
         cout<<"None";
     }
      
-    
-    
-    
-    
     for (int j=2; j<=num; j++){
         c=0;
         for (int i = 2; i <= (j/2); i++) {
@@ -30,17 +26,5 @@ int main() {
     }
          cout<<endl;
 
-   
-    
-    
-    
-   
-
     return 0;
 }
-
-
-
-
-
-
