@@ -1,10 +1,4 @@
-//
-// Created by VivaanAnika on 8/23/25.
-//
 
-#include "ATMprojectPart2.h"
-//
-// Created by VivaanAnika on 8
 
 using namespace std;
 # include <iostream>
